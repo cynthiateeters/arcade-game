@@ -48,7 +48,7 @@ Demo
 - You can see the demo at [I Got A Camera - Arcade Game ](http://igotacamera.com/arcade/).
 
 ## Installation
-- Clone the repository from [GitHub](http://GitHub.com/cynthiateeters/arcade-game) and unzip it into a directory accessible to your browser.
+- Clone the repository from [GitHub](http://GitHub.com/cynthiateeters/arcade-game).
 - Open the index.html file in your browser and it should immediately allow you to play.
 
 ## Possible Later Enhancements
@@ -62,6 +62,6 @@ Demo
 ## License and Resources
 "Arcade Game" by Cynthia Teeters © 2015 can be used under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 - Images used to make the characters Evil Chompers were originally made by [Bevouliin - Imaginary Perception](http://bevouliin.com), and obtained from [OpenGameArt](http://opengameart.org) under a [CC0 public domain license](http://creativecommons.org/publicdomain/zero/1.0/).
-- Images to make litlle monkey were originally made by [fikri](http://graphicriver.net/user/fikri) and purchased under [Envato Standard License](http://graphicriver.net/licenses/standard?license=regular).
+- Images to make the little monkey king were originally made by [fikri](http://graphicriver.net/user/fikri) and purchased under [Envato Standard License](http://graphicriver.net/licenses/standard?license=regular).
 - pacmanwakka.wav (created by remaxim) was obtained from [OpenGameArt](http://opengameart.org/content/pacman-clone-wakka-sound) under a [CC-BY-SA 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/).
 - round_end.wac (created by sauer2) was obtained from [OpenGameArt](http://opengameart.org/content/oldschool-win-and-die-jump-and-run-soundscreated) under [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
